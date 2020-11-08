@@ -14,8 +14,7 @@
 <li> Webjars </li>
 <li> H2 Database </li>
 
-# Acess the application
-<a href="https://springboot2webappjsp.herokuapp.com/users"> registration-login-springboot-security-thymeleaf </a>
+
 
 # Acess the tutorial here
 <a href="https://www.javaguides.net/2018/10/user-registration-module-using-springboot-springmvc-springsecurity-hibernate5-thymeleaf-mysql.html" target="blank">
